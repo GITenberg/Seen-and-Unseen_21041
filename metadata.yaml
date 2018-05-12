@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9689'
     url: http://www.gutenberg.org/2009/agents/9689
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21041#Seen-and-Unseen
 gutenberg_issued: '2007-04-12'
 gutenberg_type: Text
 identifiers:
